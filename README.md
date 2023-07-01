@@ -1,6 +1,7 @@
 # ESHOP
 
 Welcome to my React and Node Eshop website exactly like amazon. It uses MERN stack (MongoDB, ExpressJS, React and Node.JS).
+
 Eshop website is a web application where customer can purchase products. 
 Here, user can register, login, search for products, apply filters, add products to cart, checkout and place the order.
 
