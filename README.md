@@ -14,3 +14,10 @@ Here, user can register, login, search for products, apply filters, add products
 - MongoDB: Mongoose
 - Development: ESLint, Git, Github
 - Payment: PayPal
+
+Run The Project 
+
+1) In first terminal
+   Run cd backend and npm start
+2) In second terminal
+   Run cd frontend and npm start   
